@@ -1,2 +1,2 @@
 # JAX
-Learning JAX
+Exploration into learning JAX
